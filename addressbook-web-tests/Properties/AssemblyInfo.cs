@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("addressbook-web-tests2")]
+[assembly: AssemblyTitle("addressbook-web-tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("addressbook-web-tests2")]
+[assembly: AssemblyProduct("addressbook-web-tests")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("7a2eeff3-9d03-4413-9023-28bc324cc657")]
+[assembly: Guid("d67bfc12-4e58-40df-ac34-ded1800ab759")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
