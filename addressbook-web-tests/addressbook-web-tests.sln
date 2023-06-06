@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addressbook-web-tests", "addressbook-web-tests.csproj", "{9E57F1F4-2A8E-4E1E-A45D-E29EDA22BED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addressbook-web-tests2", "..\addressbook-web-tests2\addressbook-web-tests2.csproj", "{02C1CA0A-FB80-4F70-A3F2-30A971BD0328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E57F1F4-2A8E-4E1E-A45D-E29EDA22BED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E57F1F4-2A8E-4E1E-A45D-E29EDA22BED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E57F1F4-2A8E-4E1E-A45D-E29EDA22BED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E57F1F4-2A8E-4E1E-A45D-E29EDA22BED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C1CA0A-FB80-4F70-A3F2-30A971BD0328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C1CA0A-FB80-4F70-A3F2-30A971BD0328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C1CA0A-FB80-4F70-A3F2-30A971BD0328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C1CA0A-FB80-4F70-A3F2-30A971BD0328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C0788D-1B7D-433D-92DF-AD4C70EC41CA}
+	EndGlobalSection
+EndGlobal
